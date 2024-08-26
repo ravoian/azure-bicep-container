@@ -10,12 +10,12 @@ Example configuration for setting up a basic container on Azure using Bicep
 
 3. Install Azure CLI [Install the Azure CLI for Windows | Microsoft Learn](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
 
-4. Run `setup.bat` to setup the container
+4. Run `setup.bat` to created the resources
+
+5. Run `destroy.bat` to remove the created resources
 
 ## Additional online resources:
 
 - [Fundamentals of Bicep - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/fundamentals-bicep/)
 - [Create Bicep files - Visual Studio Code - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code?tabs=CLI)
 - [Azure Bicep: Getting Started and How-To Guide](https://www.varonis.com/blog/azure-bicep)
-  
-  
